@@ -35,3 +35,6 @@ In this screenshot it can be determined that Diana DeGette won the election. Add
 
 
 **3.	Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.**
+
+For the commission, this analysis can be modified slightly to be adapted to any future election by providing the new data sets. One way the code can be modified is by instructing it to pull the information from that new file there for populatin the demographics displayed in the election_analysis.txt file found in the Analysis folder in this github. Another way, which is basically an extension of the first one, is that any infromation that is formated like an election can be added to this code and do minor modifications to populate the demographics. 
+
