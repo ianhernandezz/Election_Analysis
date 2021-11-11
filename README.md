@@ -4,10 +4,13 @@
 
 The purpose of this election audit was initially to help Seth and Tom to submit the election audit, but the commission requested additional information. In addition to the information displayed, the commission wanted to add; **the voter turnout for each county, percentage of the voters from each county from the total count, and the county with the highest turnout.**
 
+![Screen Shot 2021-11-10 at 11 57 15 PM](https://user-images.githubusercontent.com/92615504/141239919-dceade60-a51e-485b-85de-ac8e77b85fdf.png)
+
+*Here is a screenshot of some of the code. Specifically as to where and how it is pulling the data.*
 
 **2.	Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.**
 
-o	How many votes were cast in this congressional election?
+o 	How many votes were cast in this congressional election?
 
   There were 369,711 votes casted into this election. 
   
